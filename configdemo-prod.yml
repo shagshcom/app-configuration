@@ -1,0 +1,6 @@
+build:
+  id: ${ID}
+  version: ${version}
+  name: prod
+  type: prod-type
+  
