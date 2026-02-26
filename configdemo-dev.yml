@@ -1,5 +1,6 @@
 build:
   id: ${ID}
   version: ${version}
-  name: ${name}
+  name: dev
+  type: dev-type
   
